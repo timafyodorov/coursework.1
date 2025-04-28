@@ -1,6 +1,7 @@
 public class Employee {
     private static int idCounter = 1;
 
+
     private int id;
     private String name;
     private int department;
